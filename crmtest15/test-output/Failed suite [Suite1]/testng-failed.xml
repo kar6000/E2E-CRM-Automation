@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="4" name="Failed suite [Failed suite [Suite1]]" parallel="tests">
+  <test name="TestNG Feature Suite(failed)(failed)" parallel="tests">
+    <classes>
+      <class name="com.crm.test.LaunchBrowserDemo">
+        <methods>
+          <include name="yahooLinkTest1"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.crm.test.LaunchBrowserDemo -->
+    </classes>
+  </test> <!-- TestNG Feature Suite(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite1]] -->
