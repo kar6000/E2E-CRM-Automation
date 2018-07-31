@@ -16,7 +16,6 @@
       <class name="com.crm.test.LoginPageTest">
         <methods>
           <include name="setUp"/>
-          <include name="loginTest"/>
           <include name="tearDown"/>
         </methods>
       </class> <!-- com.crm.test.LoginPageTest -->
